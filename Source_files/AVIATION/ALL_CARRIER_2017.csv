@@ -1,0 +1,942 @@
+PASSENGERS,UNIQUE_CARRIER,AIRLINE_ID,UNIQUE_CARRIER_NAME,UNIQUE_CARRIER_ENTITY,REGION,CARRIER,CARRIER_NAME,ORIGIN_AIRPORT_ID,ORIGIN,ORIGIN_CITY_NAME,ORIGIN_COUNTRY,ORIGIN_COUNTRY_NAME,DEST_AIRPORT_ID,DEST,DEST_CITY_NAME,DEST_COUNTRY,DEST_COUNTRY_NAME,YEAR,QUARTER,MONTH
+0,KD,21629,Western Global,11042,I,KD,Western Global,13700,NKX,"San Diego, CA",US,United States,13998,OZP,"Moron, Spain",ES,Spain,2017,1,1
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,16286,ZAZ,"Zaragoza, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,1
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,12197,HPN,"White Plains, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+2,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,14683,SAT,"San Antonio, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+4,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,12197,HPN,"White Plains, NY",US,United States,2017,1,1
+4,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,13047,LPA,"Las Palmas, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,1,1
+5,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,15167,TEB,"Teterboro, NJ",US,United States,13047,LPA,"Las Palmas, Spain",ES,Spain,2017,1,1
+6,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,1,1
+7,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,1
+8,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,15167,TEB,"Teterboro, NJ",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,1,1
+25,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13204,MCO,"Orlando, FL",US,United States,2017,1,1
+27,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,1
+33,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12266,IAH,"Houston, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+34,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,1,1
+38,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13204,MCO,"Orlando, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,1
+56,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,1,1
+70,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,1,1
+71,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10721,BOS,"Boston, MA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,1
+74,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+94,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+96,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,1,1
+135,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+157,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,1,1
+281,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,1,1
+288,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,10732,BQN,"Aguadilla, PR",US,United States,2017,1,1
+871,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+1434,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,1,1
+2428,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,1
+2484,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+2763,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+2959,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+3117,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,1
+3227,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,1,1
+3390,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,1
+3452,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,1
+3555,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+3605,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+3986,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,1
+4224,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,1
+4260,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,1,1
+4333,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+4347,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,1
+4355,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,1
+4519,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,1
+4531,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+4727,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,1
+4835,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+4933,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,1
+4941,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,1
+5224,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,1,1
+5356,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,1,1
+5880,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+5908,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,1
+6148,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,1
+6342,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+9521,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,1
+9606,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+10428,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,1
+10939,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,1
+0,N8,20405,National Air Cargo Group Inc d/ba National Airlines,11049,I,N8,National Air Cargo Group Inc d/ba National Airlines,15606,VLC,"Valencia, Spain",ES,Spain,12917,LCK,"Columbus, OH",US,United States,2017,1,2
+0,KAQ,20370,Kalitta Air LLC,16683,I,KAQ,Kalitta Air LLC,13156,MAD,"Madrid, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,1,2
+0,KAQ,20370,Kalitta Air LLC,16683,I,KAQ,Kalitta Air LLC,13998,OZP,"Moron, Spain",ES,Spain,13087,LSV,"Las Vegas, NV",US,United States,2017,1,2
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,14027,PBI,"West Palm Beach/Palm Beach, FL",US,United States,2017,1,2
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,1,2
+3,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12889,LAS,"Las Vegas, NV",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,2
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,12191,HOU,"Houston, TX",US,United States,2017,1,2
+3,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,15167,TEB,"Teterboro, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+4,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10205,AGP,"Malaga, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,1,2
+5,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+6,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10517,BCN,"Barcelona, Spain",ES,Spain,13398,MMU,"Morristown, NJ",US,United States,2017,1,2
+7,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,15096,SYR,"Syracuse, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+12,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,1,2
+14,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12266,IAH,"Houston, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+26,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,1,2
+32,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,1,2
+39,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,1,2
+40,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10821,BWI,"Baltimore, MD",US,United States,2017,1,2
+43,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13204,MCO,"Orlando, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+46,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13204,MCO,"Orlando, FL",US,United States,2017,1,2
+50,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+85,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+87,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10721,BOS,"Boston, MA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+92,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+105,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,1,2
+130,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+197,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,1,2
+300,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,1,2
+1900,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,2
+2134,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+2149,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,1,2
+2278,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,2
+2473,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+2538,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+2592,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,1,2
+2713,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,2
+2835,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+3056,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,1,2
+3319,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+3400,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+3525,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,2
+3594,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+3617,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+3658,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,1,2
+3663,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,2
+3890,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,2
+3983,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+4260,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,2
+4405,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+4686,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,2
+5097,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,2
+5420,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+5476,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+5664,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,2
+8708,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+8728,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,2
+8754,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,2
+8775,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,2
+0,KAQ,20370,Kalitta Air LLC,16683,I,KAQ,Kalitta Air LLC,13087,LSV,"Las Vegas, NV",US,United States,13998,OZP,"Moron, Spain",ES,Spain,2017,1,3
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,10994,CHS,"Charleston, SC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+2,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12266,IAH,"Houston, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+2,10Q,21407,Swiss Air Ambulance,71084,I,10Q,Swiss Air Ambulance,15606,VLC,"Valencia, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,1,3
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,12191,HOU,"Houston, TX",US,United States,16575,SLM,"Salamanca, Spain",ES,Spain,2017,1,3
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,1,3
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,12191,HOU,"Houston, TX",US,United States,2017,1,3
+3,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10423,AUS,"Austin, TX",US,United States,2017,1,3
+3,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,1,3
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,15356,TTN,"Trenton, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+4,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,10623,BIO,"Bilbao, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,1,3
+4,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13891,ONT,"Ontario, CA",US,United States,2017,1,3
+5,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+5,LDM,21569,Lauda Motion GmbH,71124,I,LDM,Lauda Motion GmbH,11973,GPT,"Gulfport/Biloxi, MS",US,United States,15183,TFS,"Tenerife, Spain",ES,Spain,2017,1,3
+6,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10517,BCN,"Barcelona, Spain",ES,Spain,15096,SYR,"Syracuse, NY",US,United States,2017,1,3
+8,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+8,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12889,LAS,"Las Vegas, NV",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+15,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+21,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,1,3
+67,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13204,MCO,"Orlando, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,3
+69,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,1,3
+77,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+83,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13204,MCO,"Orlando, FL",US,United States,2017,1,3
+89,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,3
+111,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10721,BOS,"Boston, MA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,3
+116,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,1,3
+121,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+250,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,1,3
+266,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+271,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,1,3
+296,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,1,3
+411,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,1,3
+412,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+2363,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+2390,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,1,3
+2652,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+2896,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,3
+3512,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,1,3
+3906,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,3
+3997,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,3
+4131,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+4256,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+4401,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,3
+4503,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+4654,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+4969,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,1,3
+5009,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,3
+5459,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,3
+5481,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,1,3
+6012,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,3
+6089,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,3
+6154,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+6234,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,3
+6289,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,1,3
+6350,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,3
+6375,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,3
+6531,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+6595,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,1,3
+6599,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+6689,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+6815,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,1,3
+6951,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,3
+7291,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+12281,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,1,3
+14196,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+15119,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,1,3
+15606,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,1,3
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,10423,AUS,"Austin, TX",US,United States,15060,SVQ,"Seville, Spain",ES,Spain,2017,2,4
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,4
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14771,SFO,"San Francisco, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+1,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10208,AGS,"Augusta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+1,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10258,ALC,"Alicante, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,4
+1,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,13156,MAD,"Madrid, Spain",ES,Spain,10747,BRO,"Brownsville, TX",US,United States,2017,2,4
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,2,4
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14262,PSP,"Palm Springs, CA",US,United States,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,2017,2,4
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,14685,SAV,"Savannah, GA",US,United States,2017,2,4
+2,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,14831,SJC,"San Jose, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,14057,PDX,"Portland, OR",US,United States,2017,2,4
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14057,PDX,"Portland, OR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14685,SAV,"Savannah, GA",US,United States,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,2017,2,4
+4,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13204,MCO,"Orlando, FL",US,United States,2017,2,4
+4,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,4
+4,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+5,24Q,21646,Blue Jet SP Z o o,71146,I,24Q,Blue Jet SP Z o o,10517,BCN,"Barcelona, Spain",ES,Spain,14107,PHX,"Phoenix, AZ",US,United States,2017,2,4
+13,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13204,MCO,"Orlando, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+15,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,2,4
+20,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+32,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10423,AUS,"Austin, TX",US,United States,2017,2,4
+43,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,2,4
+51,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+64,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+75,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,2,4
+89,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+107,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+133,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,4
+245,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10423,AUS,"Austin, TX",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+1940,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,2,4
+2224,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+2456,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,2,4
+2461,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+2811,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,4
+2863,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+4517,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,4
+4532,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,2,4
+4655,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+4736,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+4892,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,2,4
+5529,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+5652,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+5718,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+5779,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,2,4
+5863,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,2,4
+6359,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+6361,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,4
+6382,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+6430,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+6482,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+6602,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,2,4
+6667,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,2,4
+6807,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,4
+7037,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,2,4
+7180,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,4
+7198,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,4
+7202,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,4
+7225,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,4
+7228,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+7349,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+7392,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+7658,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+7718,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+7725,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,4
+7906,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,2,4
+8080,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,4
+8086,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+13559,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,4
+14221,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+15514,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,4
+16214,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,4
+1,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,13487,MSP,"Minneapolis, MN",US,United States,2017,2,5
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,10559,BFI,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,10559,BFI,"Seattle, WA",US,United States,2017,2,5
+1,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,14771,SFO,"San Francisco, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+2,0CQ,21196,ACM AIR CHARTER GmbH,71035,I,0CQ,ACM AIR CHARTER GmbH,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,2,5
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,10623,BIO,"Bilbao, Spain",ES,Spain,12197,HPN,"White Plains, NY",US,United States,2017,2,5
+2,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,11252,DAB,"Daytona Beach, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+2,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,14683,SAT,"San Antonio, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,2,5
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,15167,TEB,"Teterboro, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+6,1UQ,21590,Gainjet Aviation SA,71131,I,1UQ,Gainjet Aviation SA,15606,VLC,"Valencia, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,2,5
+7,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,2,5
+7,1UQ,21590,Gainjet Aviation SA,71131,I,1UQ,Gainjet Aviation SA,15167,TEB,"Teterboro, NJ",US,United States,15606,VLC,"Valencia, Spain",ES,Spain,2017,2,5
+7,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,5
+7,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+9,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,13303,MIA,"Miami, FL",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,2,5
+10,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,13156,MAD,"Madrid, Spain",ES,Spain,12343,INL,"International Falls, MN",US,United States,2017,2,5
+12,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,14166,PMI,"Palma Mallorca, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,2,5
+13,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,11697,FLL,"Fort Lauderdale, FL",US,United States,12274,IBZ,"Ibiza, Spain",ES,Spain,2017,2,5
+36,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,2,5
+42,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,2,5
+42,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+48,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+51,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,2,5
+64,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,2,5
+74,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+109,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+118,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+140,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,5
+148,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,2,5
+237,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+281,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,2,5
+997,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,5
+1103,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,2,5
+1334,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,2,5
+1477,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,2,5
+1603,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+1691,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+1868,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,2,5
+2667,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+2827,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,5
+2956,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+3134,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,2,5
+4066,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+4453,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,2,5
+4461,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,2,5
+4711,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,5
+4739,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+4996,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,2,5
+5026,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,5
+5120,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,5
+5145,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+5250,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,2,5
+5403,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,2,5
+5618,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+5663,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,2,5
+5903,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+6038,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,5
+6122,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+6182,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,2,5
+6293,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+6407,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,2,5
+6411,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+6421,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+6429,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,2,5
+6446,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+6577,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+6657,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,5
+6839,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+6894,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,2,5
+6901,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,2,5
+6994,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,5
+7036,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,5
+7167,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+7311,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+7357,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+7391,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+7412,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,2,5
+7641,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+7793,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+7828,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+7899,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,5
+8057,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,5
+9590,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+12344,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,5
+15363,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,5
+15404,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+16800,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,5
+0,ADB,20110,Antonov Company,9488B,I,ADB,Antonov Company,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,14843,SJU,"San Juan, PR",US,United States,16286,ZAZ,"Zaragoza, Spain",ES,Spain,2017,2,6
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,2,6
+1,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,15167,TEB,"Teterboro, NJ",US,United States,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,2017,2,6
+2,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,13156,MAD,"Madrid, Spain",ES,Spain,12945,LEX,"Lexington, KY",US,United States,2017,2,6
+2,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+2,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+5,0CQ,21196,ACM AIR CHARTER GmbH,71035,I,0CQ,ACM AIR CHARTER GmbH,12197,HPN,"White Plains, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+7,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,14721,SCQ,"Santiago de Compostela, Spain",ES,Spain,10540,BED,"Bedford, MA",US,United States,2017,2,6
+24,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+26,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,2,6
+28,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,2,6
+30,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,6
+39,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+55,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,13487,MSP,"Minneapolis, MN",US,United States,2017,2,6
+66,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+76,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,6
+108,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+119,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,2,6
+122,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,2,6
+148,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,2,6
+169,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+171,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+392,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,2,6
+1057,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,2,6
+1540,UX,20119,Air Europa,9482A,I,UX,Air Europa,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+1592,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,2,6
+1783,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,2,6
+1911,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+2120,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,2,6
+2125,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,6
+2128,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+2305,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+2339,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+2590,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,6
+2672,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+2989,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,2,6
+3076,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,2,6
+3135,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+3313,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+3898,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+3964,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,2,6
+4536,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+4634,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+5017,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,2,6
+5022,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+5098,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,2,6
+5281,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,2,6
+5386,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,2,6
+5532,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,2,6
+5566,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,2,6
+5689,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+5707,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+5741,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+5749,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+6030,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,2,6
+6086,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,2,6
+6143,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+6189,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+6231,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+6300,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,2,6
+6315,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,2,6
+6329,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,2,6
+6388,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,6
+6432,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,2,6
+6451,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+6509,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+6692,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+6712,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+6736,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+6806,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+6849,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,6
+7101,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+7116,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+7116,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,6
+7153,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,2,6
+7196,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+7235,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+7283,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+7720,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+7804,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,2,6
+7828,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+7878,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+7944,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+7961,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+8172,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,2,6
+9030,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,2,6
+10643,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+13712,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,2,6
+15066,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+17294,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,2,6
+17591,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,2,6
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+0,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14524,RIC,"Richmond, VA",US,United States,2017,3,7
+0,KD,21629,Western Global,11042,I,KD,Western Global,13619,NC1,"Gastonia, NC",US,United States,13998,OZP,"Moron, Spain",ES,Spain,2017,3,7
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,3,7
+0,LH,19554,Lufthansa German Airlines,9429D,I,LH,Lufthansa German Airlines,12892,LAX,"Los Angeles, CA",US,United States,15602,VIT,"Vitoria, Spain",ES,Spain,2017,3,7
+3,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,13156,MAD,"Madrid, Spain",ES,Spain,12197,HPN,"White Plains, NY",US,United States,2017,3,7
+4,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,14166,PMI,"Palma Mallorca, Spain",ES,Spain,12953,LGA,"New York, NY",US,United States,2017,3,7
+4,27Q,21652,"Jet Aviation Flight Services, Inc.",11046,I,27Q,"Jet Aviation Flight Services, Inc.",14166,PMI,"Palma Mallorca, Spain",ES,Spain,11728,FOK,"Westhampton, NY",US,United States,2017,3,7
+5,0RQ,21309,TAG Aviation Espana S.L.,71063,I,0RQ,TAG Aviation Espana S.L.,12197,HPN,"White Plains, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+7,27Q,21652,"Jet Aviation Flight Services, Inc.",11046,I,27Q,"Jet Aviation Flight Services, Inc.",10517,BCN,"Barcelona, Spain",ES,Spain,11728,FOK,"Westhampton, NY",US,United States,2017,3,7
+8,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10423,AUS,"Austin, TX",US,United States,12274,IBZ,"Ibiza, Spain",ES,Spain,2017,3,7
+27,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,3,7
+30,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10423,AUS,"Austin, TX",US,United States,2017,3,7
+33,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,3,7
+43,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+44,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,3,7
+62,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+64,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+86,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+87,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+115,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,7
+148,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,7
+158,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,3,7
+169,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+198,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,3,7
+259,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,3,7
+2181,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+2227,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+2280,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,7
+2381,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+2407,UX,20119,Air Europa,9482A,I,UX,Air Europa,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+2442,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,7
+2503,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+2550,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,3,7
+2554,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+2580,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,7
+2672,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+2703,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,7
+2811,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,3,7
+2818,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+3464,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,3,7
+3683,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,3,7
+4354,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+4709,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+4809,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+4834,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+5217,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,3,7
+5271,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+5431,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+5496,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+5539,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,7
+5674,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+5679,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+5842,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+5876,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+5912,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,3,7
+5959,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+6109,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,7
+6208,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,7
+6251,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+6280,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+6295,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,3,7
+6461,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+6523,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+6585,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,7
+6628,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,3,7
+6804,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+6929,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,3,7
+6958,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+6999,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,3,7
+7029,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,3,7
+7067,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,7
+7079,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,7
+7202,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+7294,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,7
+7317,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,7
+7336,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+7346,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,3,7
+7465,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+7484,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,3,7
+7494,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,7
+7521,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+7522,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,7
+7847,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,7
+8046,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,7
+8355,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,3,7
+8386,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,3,7
+8503,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,7
+9212,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,7
+10281,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,3,7
+13988,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+15970,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,7
+16448,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,7
+19085,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,7
+0,KD,21629,Western Global,11042,I,KD,Western Global,13667,NGU,"Norfolk, VA",US,United States,16334,ZXA,"Rota, Spain",ES,Spain,2017,3,8
+0,KD,21629,Western Global,11042,I,KD,Western Global,16334,ZXA,"Rota, Spain",ES,Spain,13667,NGU,"Norfolk, VA",US,United States,2017,3,8
+0,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,8
+1,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,13487,MSP,"Minneapolis, MN",US,United States,2017,3,8
+1,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,12274,IBZ,"Ibiza, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,8
+2,24Q,21646,Blue Jet SP Z o o,71146,I,24Q,Blue Jet SP Z o o,10821,BWI,"Baltimore, MD",US,United States,12274,IBZ,"Ibiza, Spain",ES,Spain,2017,3,8
+4,24Q,21646,Blue Jet SP Z o o,71146,I,24Q,Blue Jet SP Z o o,12274,IBZ,"Ibiza, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,3,8
+4,24Q,21646,Blue Jet SP Z o o,71146,I,24Q,Blue Jet SP Z o o,12889,LAS,"Las Vegas, NV",US,United States,12274,IBZ,"Ibiza, Spain",ES,Spain,2017,3,8
+4,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,12889,LAS,"Las Vegas, NV",US,United States,15183,TFS,"Tenerife, Spain",ES,Spain,2017,3,8
+4,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,15181,TFN,"Tenerife, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,8
+7,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13204,MCO,"Orlando, FL",US,United States,2017,3,8
+8,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12266,IAH,"Houston, TX",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+10,24Q,21646,Blue Jet SP Z o o,71146,I,24Q,Blue Jet SP Z o o,10205,AGP,"Malaga, Spain",ES,Spain,15618,VNY,"Van Nuys, CA",US,United States,2017,3,8
+20,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,3,8
+28,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+31,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+36,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,3,8
+38,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+45,1ZQ,21630,Comlux Aruba NV,71144,I,1ZQ,Comlux Aruba NV,12892,LAX,"Los Angeles, CA",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,3,8
+45,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+49,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,8
+58,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10423,AUS,"Austin, TX",US,United States,2017,3,8
+73,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+82,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+84,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+94,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,3,8
+112,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,3,8
+113,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+151,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,3,8
+171,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,3,8
+221,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,8
+685,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11697,FLL,"Fort Lauderdale, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+803,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11697,FLL,"Fort Lauderdale, FL",US,United States,2017,3,8
+1683,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+2209,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,3,8
+2354,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+2360,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+2491,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+2530,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,8
+2593,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,3,8
+2623,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+2660,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,8
+2783,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,3,8
+3065,UX,20119,Air Europa,9482A,I,UX,Air Europa,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+3151,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,8
+3323,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+3580,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+3721,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,8
+3823,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,3,8
+4336,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+4397,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+4519,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,3,8
+5301,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+5355,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+5508,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+5554,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+5563,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,8
+5763,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,8
+5774,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,3,8
+5833,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+5882,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+5891,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,3,8
+5923,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,3,8
+6099,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+6245,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+6246,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+6249,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,3,8
+6369,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,8
+6422,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+6462,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+6508,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+6511,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,8
+6513,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,8
+6545,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,3,8
+6622,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,3,8
+6668,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,3,8
+6719,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+6751,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,3,8
+6833,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,3,8
+6855,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,8
+6860,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+6864,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,8
+7059,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+7324,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,3,8
+7378,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,8
+7392,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+7394,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,8
+7517,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,8
+7559,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+7688,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,8
+7696,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+8024,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+8113,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,8
+8283,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+8334,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,8
+8425,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,8
+9909,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,3,8
+15495,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,8
+15527,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+18796,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,8
+19903,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,8
+0,KD,21629,Western Global,11042,I,KD,Western Global,13667,NGU,"Norfolk, VA",US,United States,16334,ZXA,"Rota, Spain",ES,Spain,2017,3,9
+0,KD,21629,Western Global,11042,I,KD,Western Global,16334,ZXA,"Rota, Spain",ES,Spain,13667,NGU,"Norfolk, VA",US,United States,2017,3,9
+5,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10205,AGP,"Malaga, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+11,CRV,21406,Acropolis Aviation Ltd.,71083,I,CRV,Acropolis Aviation Ltd.,10205,AGP,"Malaga, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+17,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13204,MCO,"Orlando, FL",US,United States,2017,3,9
+23,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,13487,MSP,"Minneapolis, MN",US,United States,2017,3,9
+24,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,3,9
+49,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,3,9
+51,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+52,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,3,9
+52,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,9
+56,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10423,AUS,"Austin, TX",US,United States,2017,3,9
+59,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+64,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+65,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+75,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+78,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12266,IAH,"Houston, TX",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+93,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,3,9
+108,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+117,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,3,9
+139,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,3,9
+145,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+182,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11193,CVG,"Cincinnati, OH",US,United States,2017,3,9
+195,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11193,CVG,"Cincinnati, OH",US,United States,2017,3,9
+213,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+350,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,3,9
+788,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,9
+904,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+914,UX,20119,Air Europa,9482A,I,UX,Air Europa,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+1421,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,3,9
+1745,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11697,FLL,"Fort Lauderdale, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+1873,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11697,FLL,"Fort Lauderdale, FL",US,United States,2017,3,9
+2222,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,9
+2268,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+2353,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+3314,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+3323,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,3,9
+3424,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,3,9
+3502,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+3576,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,9
+3753,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,3,9
+3774,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+3991,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,3,9
+4112,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+4262,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10205,AGP,"Malaga, Spain",ES,Spain,2017,3,9
+4372,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,3,9
+4411,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,9
+4423,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,9
+4447,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+4457,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+4510,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10205,AGP,"Malaga, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+4632,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,3,9
+4674,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,3,9
+4710,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,3,9
+4720,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,9
+4774,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+4911,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+4968,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,9
+5062,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+5095,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+5271,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,9
+5321,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+5430,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,3,9
+5439,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+5482,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,3,9
+5532,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+5556,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+5557,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+5607,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+5611,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,3,9
+5920,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+5920,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+6046,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,3,9
+6048,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,3,9
+6116,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+6167,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+6185,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+6305,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+6514,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+6517,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+6659,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,3,9
+6913,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+6998,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+7079,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+7094,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+7167,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,3,9
+7223,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,3,9
+7224,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+7523,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,3,9
+7761,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+8544,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+12554,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,3,9
+13566,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+19195,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,3,9
+19340,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,3,9
+0,5X,19917,United Parcel Service,16911,A,5X,United Parcel Service,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,4,10
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,13303,MIA,"Miami, FL",US,United States,16286,ZAZ,"Zaragoza, Spain",ES,Spain,2017,4,10
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,16286,ZAZ,"Zaragoza, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,10
+2,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,12197,HPN,"White Plains, NY",US,United States,11469,EAS,"San Sebastian, Spain",ES,Spain,2017,4,10
+3,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,4,10
+3,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12266,IAH,"Houston, TX",US,United States,2017,4,10
+4,0Q,21147,Flying Service N.V.,71025,I,0Q,Flying Service N.V.,11697,FLL,"Fort Lauderdale, FL",US,United States,14166,PMI,"Palma Mallorca, Spain",ES,Spain,2017,4,10
+5,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,4,10
+6,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,10517,BCN,"Barcelona, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,4,10
+6,0Q,21147,Flying Service N.V.,71025,I,0Q,Flying Service N.V.,12274,IBZ,"Ibiza, Spain",ES,Spain,11697,FLL,"Fort Lauderdale, FL",US,United States,2017,4,10
+9,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,15167,TEB,"Teterboro, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+21,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+23,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,4,10
+30,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+35,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,4,10
+36,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+44,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10423,AUS,"Austin, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+54,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+58,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10423,AUS,"Austin, TX",US,United States,2017,4,10
+59,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,4,10
+71,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,4,10
+73,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14747,SEA,"Seattle, WA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+74,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+78,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,4,10
+86,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,4,10
+145,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,4,10
+151,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+200,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+208,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,4,10
+224,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,4,10
+483,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+632,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,4,10
+1777,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+1953,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,4,10
+2006,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11697,FLL,"Fort Lauderdale, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+2079,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+2210,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,4,10
+2250,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11697,FLL,"Fort Lauderdale, FL",US,United States,2017,4,10
+2418,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+2467,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+2688,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+2998,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,4,10
+3058,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+3294,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,4,10
+3366,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11057,CLT,"Charlotte, NC",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+3492,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,4,10
+3595,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,4,10
+3776,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+4120,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+4448,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,12264,IAD,"Washington, DC",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+4461,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+4817,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+4855,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,10
+4863,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+4907,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11057,CLT,"Charlotte, NC",US,United States,2017,4,10
+5102,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+5207,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,4,10
+5210,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+5340,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12264,IAD,"Washington, DC",US,United States,2017,4,10
+5353,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+5389,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,10
+5454,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+5491,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+5551,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+5585,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+5722,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,10
+5798,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+5993,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,10
+5995,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+6142,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+6156,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,10
+6194,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+6207,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,4,10
+6433,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,4,10
+6548,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,10
+6573,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,4,10
+6724,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,10
+6816,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,10
+6821,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+6865,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,10
+7043,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,10
+7104,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,4,10
+7198,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,4,10
+7410,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,4,10
+7540,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,10
+7573,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,10
+13628,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+15912,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,10
+18374,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,10
+20151,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,10
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,13930,ORD,"Chicago, IL",US,United States,16286,ZAZ,"Zaragoza, Spain",ES,Spain,2017,4,11
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,16286,ZAZ,"Zaragoza, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,11
+0,2GQ,21693,Cavok Air LLC,71165,I,2GQ,Cavok Air LLC,13047,LPA,"Las Palmas, Spain",ES,Spain,14843,SJU,"San Juan, PR",US,United States,2017,4,11
+0,KD,21629,Western Global,11042,I,KD,Western Global,13667,NGU,"Norfolk, VA",US,United States,16334,ZXA,"Rota, Spain",ES,Spain,2017,4,11
+1,0WQ,21352,Avjet Corporation,1150,D,0WQ,Avjet Corporation,10800,BUR,"Burbank, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+4,TIQ,21035,Tyrolean Jet Service,71002,I,TIQ,Tyrolean Jet Service,10517,BCN,"Barcelona, Spain",ES,Spain,15167,TEB,"Teterboro, NJ",US,United States,2017,4,11
+4,TIQ,21035,Tyrolean Jet Service,71002,I,TIQ,Tyrolean Jet Service,15167,TEB,"Teterboro, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+12,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+12,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+16,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,4,11
+33,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,4,11
+33,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+34,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+44,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,4,11
+45,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+65,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,4,11
+66,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+227,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+369,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,4,11
+1831,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+2018,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,4,11
+2158,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,4,11
+2184,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+2242,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+2778,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,4,11
+2815,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11697,FLL,"Fort Lauderdale, FL",US,United States,2017,4,11
+2824,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11697,FLL,"Fort Lauderdale, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+3289,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+3346,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,4,11
+3548,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+3656,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,11
+3705,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+3798,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+3823,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,11
+3967,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,4,11
+4080,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+4470,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,11
+4478,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,11
+4488,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,11
+4565,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+4576,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+4578,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,4,11
+4679,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+4765,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,11
+4890,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,4,11
+4928,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,11
+4992,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+5008,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+5115,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+5525,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+5592,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,11
+5678,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,11
+5691,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,11
+5752,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+5846,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,11
+5898,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+5900,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,11
+6647,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,4,11
+6852,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+12377,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+12810,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,11
+16939,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,11
+17737,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,11
+0,KD,21629,Western Global,11042,I,KD,Western Global,13667,NGU,"Norfolk, VA",US,United States,16334,ZXA,"Rota, Spain",ES,Spain,2017,4,12
+0,KD,21629,Western Global,11042,I,KD,Western Global,16334,ZXA,"Rota, Spain",ES,Spain,13667,NGU,"Norfolk, VA",US,United States,2017,4,12
+0,VIQ,20428,Volga-Dnepr Airlines,9475B,I,VIQ,Volga-Dnepr Airlines,15294,TOJ,"Madrid, Spain",ES,Spain,15561,VBG,"Lompoc, CA",US,United States,2017,4,12
+0,5Y,20007,Atlas Air Inc.,16087,I,5Y,Atlas Air Inc.,11618,EWR,"Newark, NJ",US,United States,16286,ZAZ,"Zaragoza, Spain",ES,Spain,2017,4,12
+1,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12889,LAS,"Las Vegas, NV",US,United States,2017,4,12
+1,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,12892,LAX,"Los Angeles, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+5,VJT,21568,VistaJet Limited,71123,I,VJT,VistaJet Limited,15167,TEB,"Teterboro, NJ",US,United States,13047,LPA,"Las Palmas, Spain",ES,Spain,2017,4,12
+8,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+8,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,14771,SFO,"San Francisco, CA",US,United States,2017,4,12
+10,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14679,SAN,"San Diego, CA",US,United States,2017,4,12
+26,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14869,SLC,"Salt Lake City, UT",US,United States,2017,4,12
+28,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,14869,SLC,"Salt Lake City, UT",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+30,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14679,SAN,"San Diego, CA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+41,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14771,SFO,"San Francisco, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+77,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+191,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,4,12
+293,UX,20119,Air Europa,9482A,I,UX,Air Europa,14843,SJU,"San Juan, PR",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+1529,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,10721,BOS,"Boston, MA",US,United States,2017,4,12
+1971,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,4,12
+2002,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,13796,OAK,"Oakland, CA",US,United States,2017,4,12
+2192,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,10721,BOS,"Boston, MA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+2256,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+2402,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13796,OAK,"Oakland, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+3058,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11697,FLL,"Fort Lauderdale, FL",US,United States,2017,4,12
+3155,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,12892,LAX,"Los Angeles, CA",US,United States,2017,4,12
+3206,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11697,FLL,"Fort Lauderdale, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+3326,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,12892,LAX,"Los Angeles, CA",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+3361,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,10397,ATL,"Atlanta, GA",US,United States,2017,4,12
+3570,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,12
+4007,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,12
+4067,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10397,ATL,"Atlanta, GA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+4301,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+4348,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,12
+4520,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,12
+4615,DY,21579,Norwegian Air Shuttle ASA,71127,I,DY,Norwegian Air Shuttle ASA,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+4740,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,11618,EWR,"Newark, NJ",US,United States,2017,4,12
+4773,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+4991,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,12
+5022,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+5129,UA,19977,United Air Lines Inc.,10874,A,UA,United Air Lines Inc.,11618,EWR,"Newark, NJ",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+5289,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,12
+5336,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,14100,PHL,"Philadelphia, PA",US,United States,2017,4,12
+5640,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,11298,DFW,"Dallas/Fort Worth, TX",US,United States,2017,4,12
+5663,DL,19790,Delta Air Lines Inc.,10261,A,DL,Delta Air Lines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+5692,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,14100,PHL,"Philadelphia, PA",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+5783,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13930,ORD,"Chicago, IL",US,United States,2017,4,12
+6053,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,12
+6420,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,12478,JFK,"New York, NY",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+6466,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,11298,DFW,"Dallas/Fort Worth, TX",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+6557,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,10517,BCN,"Barcelona, Spain",ES,Spain,2017,4,12
+6882,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13930,ORD,"Chicago, IL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+6928,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,10517,BCN,"Barcelona, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,12
+7171,UX,20119,Air Europa,9482A,I,UX,Air Europa,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,12
+7271,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,12
+7354,AA,19805,American Airlines Inc.,10049,A,AA,American Airlines Inc.,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+7682,UX,20119,Air Europa,9482A,I,UX,Air Europa,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+7765,UX,20119,Air Europa,9482A,I,UX,Air Europa,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+12689,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13303,MIA,"Miami, FL",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12
+13147,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,13303,MIA,"Miami, FL",US,United States,2017,4,12
+15169,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,13156,MAD,"Madrid, Spain",ES,Spain,12478,JFK,"New York, NY",US,United States,2017,4,12
+16846,IB,19547,Iberia Air Lines Of Spain,9482B,I,IB,Iberia Air Lines Of Spain,12478,JFK,"New York, NY",US,United States,13156,MAD,"Madrid, Spain",ES,Spain,2017,4,12

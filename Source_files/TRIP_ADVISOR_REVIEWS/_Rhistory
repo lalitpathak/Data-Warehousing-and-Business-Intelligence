@@ -1,0 +1,326 @@
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total reviews_html<-read_html(url)
+Reviews <- html_nodes(total reviews,"#REVIEWS .innerBubble")
+ID<-(html_node(".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(".quote span"))
+review<-html_text((html_node(".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(".quote span"))
+review<-html_text((html_node(".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html".quote span"))
+review<-html_text((html_node(".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html".quote span"))
+review<-html_text((html_node(total_reviews_html".entry .partial_entry"))
+}
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html".quote span"))
+review<-html_text((html_node(total_reviews_html".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html,".quote span"))
+review<-html_text((html_node(total_reviews_html,".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html,".quote span"))
+review<-html_text(html_node(total_reviews_html,".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+library(rvest)
+install.packages("rvest")
+library(rvest)
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html".quote span"))
+review<-html_text((html_node(total_reviews_html".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html,".quote span"))
+review<-html_text(html_node(total_reviews_html,".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+for(i in 1:10)
+{
+url <- paste0("https://www.tripadvisor.ie/Airline_Review-d8728984-Reviews-or",i,"-Adria-Airways#REVIEWS")
+total_reviews_html<-read_html(url)
+Reviews <- html_nodes(total_reviews_html,"#REVIEWS .innerBubble")
+ID<-(html_node(total_reviews_html,".quote a"))
+ID<-html_att("ID")
+quote <-html_text(html_node(total_reviews_html,".quote span"))
+review<-html_text(html_node(total_reviews_html,".entry .partial_entry"))
+df<-data.frame(id,quote,review, stringsAsFactors = FALSE)
+}
+library(cld2)
+library(cld3)
+install.packages("cld2")
+install.packages("cld3")
+install.packages("cld2")
+install.packages("cld3")
+library(cld2)
+library(cld3)
+temp = list.files(pattern="*.csv")                                     # This function will pick all the files from
+for (i in 1:length(temp))                                              #  the working directory with file extension as .csv
+assign(temp[i], read.csv(temp[i],stringsAsFactors = F))
+DATA<-data.frame(rbind(Air_Europa.csv,American_Airlines.csv,Delta_Air_Lines.csv,Iberia.csv,LAN_Airlines.csv,Laudmotion.csv,Lufthans.csv,Norwegian.csv,TAG.csv,united_airlines.csv),stringsAsFactors = F)
+library(rvest)
+library(XML)
+library(dplyr)
+library(plyr)
+library(purrr)
+library(textcat)
+library(cld2)
+library(cld3)
+library(tidyverse)
+library(plyr)
+library(dplyr)
+library(rvest)
+library(tidytext)
+library(reshape)
+library(tidyr)
+library(textcat)
+setwd("C:\\Users\\MOLAP\\Documents\\R\\TRIP_ADVISOR_REVIEWS")
+temp = list.files(pattern="*.csv")                                     # This function will pick all the files from
+for (i in 1:length(temp))                                              #  the working directory with file extension as .csv
+assign(temp[i], read.csv(temp[i],stringsAsFactors = F))
+DATA<-data.frame(rbind(Air_Europa.csv,American_Airlines.csv,Delta_Air_Lines.csv,Iberia.csv,LAN_Airlines.csv,Laudmotion.csv,Lufthans.csv,Norwegian.csv,TAG.csv,united_airlines.csv),stringsAsFactors = F)
+DATA$review<-gsub(pattern="\\W",replace=" ",DATA$review);
+DATA$review<-gsub(pattern="\\d",replace=" ",DATA$review);
+DATA$review<-tolower(DATA$review)
+DATA$review<-removeWords(DATA$review,stopwords())
+DATA$review<-gsub(pattern = "\\b[a-z]\\b{1}",replace=" ",DATA$review)
+DATA$review<-stripWhitespace(DATA$review)
+DATA$review<-stripWhitespace(DATA$review)
+library(tm)
+DATA$review<-removeWords(DATA$review,stopwords())
+DATA$review<-gsub(pattern = "\\b[a-z]\\b{1}",replace=" ",DATA$review)
+DATA$review<-stripWhitespace(DATA$review)
+DATA1<-DATA %>% mutate( #  filter data on the basis of language
+cld3=cld3::detect_language(text = review)) %>%
+select(review,cld3,Airline_name)%>%
+filter(cld3=="en")
+text_df<-data_frame(text=DATA$review,airline_name=DATA$Airline_name)
+text_df <- text_df %>% unnest_tokens(word, text)
+text_df<-unique(text_df)
+text_df$ID <- seq.int(nrow(text_df))
+bingSent <-text_df %>%
+inner_join(bing)%>%
+spread(sentiment, ID, fill = 0) %>%
+mutate(sentiment = positive - negative)
+afin <-get_sentiments("afinn")
+bing <-get_sentiments("bing")
+nrc<-get_sentiments("nrc")
+bingSent <-text_df %>%
+inner_join(bing)%>%
+spread(sentiment, ID, fill = 0) %>%
+mutate(sentiment = positive - negative)
+final_sentiment<-aggregate(bingSent[, 3:5], list(bingSent$airline_name), mean)
+colnames(final_sentiment)<-c("AIRLINE_NAME","POSITIVE","NEGATIVE","SENTIMENTS")
+final_sentiment<-cbind(AVIATION_DF,final_sentiment[,2:4])
+setwd("C:\\Users\\MOLAP\\Documents\\R\\TRIP_ADVISOR_REVIEWS")
+x<-c("d8729113","d8729177","d8729108","d8729026","d15052991","d8729060","d8729020","d8729089","d8729002","d14190667","d8729125")
+url_base <- "https://www.tripadvisor.ie/Airline_Review-%s"
+map_df(x, function(i) {
+cat(".")
+pg <- read_html(sprintf(url_base, i))
+data.frame(AIRLINE_NAME=html_text(html_node(pg, ".heading_height")),
+Totalreviews=gsub("reviews","",html_text(html_nodes(pg, ".numRatings"))),
+stringsAsFactors=FALSE)
+})-> AIRLINE_DETAILS
+#code to get rating Name of the airline
+url1 <- 'https://www.tripadvisor.ie/Airline_Review-d8729160-Reviews-Swiss-International-Air-Lines'
+webpage1<-read_html(url1)
+RATING_NAME<-rbind(html_text(html_nodes(webpage1,"#AIRLINE_DETAIL_MAIN_WRAPPER .text")))
+RATING_NAME<-c("overall_rating",RATING_NAME)
+## overall rating of the airlines
+Rating <-lapply(paste0('https://www.tripadvisor.ie/Airline_Review-', x),
+function(url){
+url %>% read_html() %>%
+html_nodes(".ui_bubble_rating")
+})
+df.RATING=c()
+for(i in 1:11)
+{
+df.RATING[[i]]<-bind_rows(lapply(xml_attrs(Rating[[i]]),function(x) data.frame(as.list(x), stringsAsFactors=FALSE)))
+df.RATING[[i]]<-rbind(gsub("of 5 bubbles","",head(df.RATING[[i]]$alt,9)))
+}
+#combine all data frame to get overall rating of all the data
+df.RATING2<-data.frame(cbind((df.RATING)))
+ALL_RATINGS<-data.frame(t(sapply(df.RATING,c)))
+colnames(ALL_RATINGS)<-c(RATING_NAME) #asssign column name to the data frame
+# combine all the data frames
+AVIATION_DF<-cbind(AIRLINE_DETAILS,ALL_RATINGS)
+AVIATION_DF$AIRLINE_NAME<-trimws(AVIATION_DF$AIRLINE_NAME, which = c( "right"))
+AVIATION_DF$AIRLINE_NAME<-gsub("\n","",AVIATION_DF$AIRLINE_NAME)
+AVIATION_DF$AIRLINE_NAME<-revalue(AVIATION_DF$AIRLINE_NAME,c("Lufthansa" = "Lufthansa German Airlines",
+"United Airlines" = "United Air Lines Inc.",
+"LAN Airlines (now LATAM Airlines) (Now LATAM Airlines)" ="Lan Colombia",
+"Atlas Air" ="Atlas Air Inc.",
+"TAG" = "TAG Aviation Espana S.L.",
+"Delta Air Lines" = "Delta Air Lines Inc.",
+"American Airlines" = "American Airlines Inc.",
+"Iberia"= "Iberia Air Lines Of Spain",
+"Air Europa" = "Air Europa",
+"Laudamotion"= "Lauda Motion GmbH",
+"Norwegian" ="Norwegian Air Shuttle ASA"))
+final_sentiment<-aggregate(bingSent[, 3:5], list(bingSent$airline_name), mean)
+colnames(final_sentiment)<-c("AIRLINE_NAME","POSITIVE","NEGATIVE","SENTIMENTS")
+final_sentiment<-cbind(AVIATION_DF,final_sentiment[,2:4])
+View(AVIATION_DF)
+View(AVIATION_DF)
+View(final_sentiment)
+View(final_sentiment)
+setwd("C:\\Users\\MOLAP\\Documents\\R\\TRIP_ADVISOR_REVIEWS")
+setwd("C:\\Users\\MOLAP\\Documents\\R\\TRIP_ADVISOR_REVIEWS")
+x<-c("d8729026")
+url_base <- "https://www.tripadvisor.ie/Airline_Review-%s"
+map_df(x, function(i) {
+cat(".")
+webpage <- read_html(sprintf(url_base, i))
+reviews<-html_nodes(webpage,"#REVIEWS .innerBubble")
+id<-html_node(reviews,".quote a")%>%
+html_attr("id")
+quote<-html_text(html_node(reviews ,".quote span"))
+review <-html_text(html_node(reviews,".entry .partial_entry"))
+df<-data.frame(id,quote,review,Airline_name="Atlas_Air_Inc" stringsAsFactors = FALSE)
+})->Atlas_Air
+x<-c("d8729026")
+url_base <- "https://www.tripadvisor.ie/Airline_Review-%s"
+map_df(x, function(i) {
+cat(".")
+webpage <- read_html(sprintf(url_base, i))
+reviews<-html_nodes(webpage,"#REVIEWS .innerBubble")
+id<-html_node(reviews,".quote a")%>%
+html_attr("id")
+quote<-html_text(html_node(reviews ,".quote span"))
+review <-html_text(html_node(reviews,".entry .partial_entry"))
+df<-data.frame(id,quote,review,Airline_name="Atlas_Air_Inc" stringsAsFactors = FALSE)
+})->Atlas_Air
+Atlas Air Inc
+x<-c("d8729026")
+url_base <- "https://www.tripadvisor.ie/Airline_Review-d8729002-Reviews-or%d"
+map_df(x, function(i) {
+cat(".")
+webpage <- read_html(sprintf(url_base, i))
+reviews<-html_nodes(webpage,"#REVIEWS .innerBubble")
+id<-html_node(reviews,".quote a")%>%
+html_attr("id")
+quote<-html_text(html_node(reviews ,".quote span"))
+review <-html_text(html_node(reviews,".entry .partial_entry"))
+df<-data.frame(id,quote,review,Airline_name="Atlas Air Inc", stringsAsFactors = FALSE)
+})->Atlas_Air
+Atlas Air Inc
+x<-c("d8729026")
+url_base <- "https://www.tripadvisor.ie/Airline_Review-d8729002-Reviews-or%S"
+map_df(x, function(i) {
+cat(".")
+webpage <- read_html(sprintf(url_base, i))
+reviews<-html_nodes(webpage,"#REVIEWS .innerBubble")
+id<-html_node(reviews,".quote a")%>%
+html_attr("id")
+quote<-html_text(html_node(reviews ,".quote span"))
+review <-html_text(html_node(reviews,".entry .partial_entry"))
+df<-data.frame(id,quote,review,Airline_name="Atlas Air Inc", stringsAsFactors = FALSE)
+})->Atlas_Air
+x<-c("d8729026")
+url_base <- "https://www.tripadvisor.ie/Airline_Review-%s"
+map_df(x, function(i) {
+cat(".")
+webpage <- read_html(sprintf(url_base, i))l
+reviews<-html_nodes(webpage,"#REVIEWS .innerBubble")
+id<-html_node(reviews,".quote a")%>%
+html_attr("id")
+quote<-html_text(html_node(reviews ,".quote span"))
+review <-html_text(html_node(reviews,".entry .partial_entry"))
+df<-data.frame(id,quote,review,Airline_name="Atlas Air Inc", stringsAsFactors = FALSE)
+})->Atlas_Air
+x<-c("d8729026")
+url_base <- "https://www.tripadvisor.ie/Airline_Review-%s"
+map_df(x, function(i) {
+cat(".")
+webpage <- read_html(sprintf(url_base, i))
+reviews<-html_nodes(webpage,"#REVIEWS .innerBubble")
+id<-html_node(reviews,".quote a")%>%
+html_attr("id")
+quote<-html_text(html_node(reviews ,".quote span"))
+review <-html_text(html_node(reviews,".entry .partial_entry"))
+df<-data.frame(id,quote,review,Airline_name="Atlas Air Inc", stringsAsFactors = FALSE)
+})->Atlas_Air
+write.csv(Atlas_Air,"Atlas Air.csv",row.names = F)
+temp = list.files(pattern="*.csv")                                     # This function will pick all the files from
+for (i in 1:length(temp))                                              #  the working directory with file extension as .csv
+assign(temp[i], read.csv(temp[i],stringsAsFactors = F))
+DATA<-data.frame(rbind(Atlas Air.csv,Air_Europa.csv,American_Airlines.csv,Delta_Air_Lines.csv,Iberia.csv,LAN_Airlines.csv,Laudmotion.csv,Lufthans.csv,Norwegian.csv,TAG.csv,united_airlines.csv,atl),stringsAsFactors = F)
+temp = list.files(pattern="*.csv")                                     # This function will pick all the files from
+for (i in 1:length(temp))                                              #  the working directory with file extension as .csv
+assign(temp[i], read.csv(temp[i],stringsAsFactors = F))
+DATA<-data.frame(rbind(Atlas_Air.csv,Air_Europa.csv,American_Airlines.csv,Delta_Air_Lines.csv,Iberia.csv,LAN_Airlines.csv,Laudmotion.csv,Lufthans.csv,Norwegian.csv,TAG.csv,united_airlines.csv,atl),stringsAsFactors = F)
+DATA<-data.frame(rbind(Atlas_Air.csv,Air_Europa.csv,American_Airlines.csv,Delta_Air_Lines.csv,Iberia.csv,LAN_Airlines.csv,Laudmotion.csv,Lufthans.csv,Norwegian.csv,TAG.csv,united_airlines.csv),stringsAsFactors = F)
+View(LAN_Airlines.csv)
+View(LAN_Airlines.csv)
