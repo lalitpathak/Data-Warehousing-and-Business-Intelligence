@@ -1,0 +1,84 @@
+"COUNTRY_CODE","COUNTRY_NAME","CITY_CODE","CITY_NAME","AIRPORT_ID"
+"US","United States","MIA","Miami, FL",13303
+"US","United States","SEA","Seattle, WA",14747
+"US","United States","LAX","Los Angeles, CA",12892
+"US","United States","SAV","Savannah, GA",14685
+"US","United States","DEN","Denver, CO",11292
+"US","United States","FLL","Fort Lauderdale, FL",11697
+"US","United States","SFO","San Francisco, CA",14771
+"US","United States","SJU","San Juan, PR",14843
+"US","United States","SAN","San Diego, CA",14679
+"US","United States","JFK","New York, NY",12478
+"US","United States","EWR","Newark, NJ",11618
+"US","United States","ATL","Atlanta, GA",10397
+"US","United States","DFW","Dallas/Fort Worth, TX",11298
+"US","United States","PHL","Philadelphia, PA",14100
+"US","United States","ORD","Chicago, IL",13930
+"US","United States","WRI","Fort Dix, NJ",15842
+"US","United States","TEB","Teterboro, NJ",15167
+"US","United States","LAS","Las Vegas, NV",12889
+"US","United States","BDL","Hartford, CT",10529
+"US","United States","AUS","Austin, TX",10423
+"US","United States","MCO","Orlando, FL",13204
+"US","United States","NKX","San Diego, CA",13700
+"US","United States","HPN","White Plains, NY",12197
+"US","United States","SAT","San Antonio, TX",14683
+"US","United States","IAH","Houston, TX",12266
+"US","United States","BOS","Boston, MA",10721
+"US","United States","DAL","Dallas, TX",11259
+"US","United States","PWM","Portland, ME",14321
+"US","United States","IAD","Washington, DC",12264
+"US","United States","OAK","Oakland, CA",13796
+"US","United States","MEM","Memphis, TN",13244
+"US","United States","HOU","Houston, TX",12191
+"US","United States","SJC","San Jose, CA",14831
+"US","United States","SYR","Syracuse, NY",15096
+"US","United States","DTW","Detroit, MI",11433
+"US","United States","TPA","Tampa, FL",15304
+"US","United States","STT","Charlotte Amalie, VI",15024
+"US","United States","LSV","Las Vegas, NV",13087
+"US","United States","CHS","Charleston, SC",10994
+"US","United States","TTN","Trenton, NJ",15356
+"US","United States","GPT","Gulfport/Biloxi, MS",11973
+"US","United States","BUR","Burbank, CA",10800
+"US","United States","AGS","Augusta, GA",10208
+"US","United States","PSP","Palm Springs, CA",14262
+"US","United States","PDX","Portland, OR",14057
+"US","United States","BFI","Seattle, WA",10559
+"US","United States","SMF","Sacramento, CA",14893
+"US","United States","CLT","Charlotte, NC",11057
+"US","United States","DAB","Daytona Beach, FL",11252
+"US","United States","SLC","Salt Lake City, UT",14869
+"US","United States","BCT","Boca Raton, FL",10519
+"US","United States","RST","Rochester, MN",14633
+"US","United States","MSP","Minneapolis, MN",13487
+"US","United States","FOK","Westhampton, NY",11728
+"US","United States","BGR","Bangor, ME",10581
+"US","United States","NGU","Norfolk, VA",13667
+"US","United States","NC1","Gastonia, NC",13619
+"US","United States","SDF","Louisville, KY",14730
+"US","United States","BWI","Baltimore, MD",10821
+"US","United States","SRQ","Sarasota/Bradenton, FL",14986
+"US","United States","PSM","Portsmouth, NH",14259
+"US","United States","BHM","Birmingham, AL",10599
+"US","United States","CVG","Cincinnati, OH",11193
+"US","United States","BQN","Aguadilla, PR",10732
+"ES","Spain","SVQ","Seville, Spain",15060
+"ES","Spain","ZXA","Rota, Spain",16334
+"ES","Spain","BCN","Barcelona, Spain",10517
+"ES","Spain","MAD","Madrid, Spain",13156
+"ES","Spain","SCQ","Santiago de Compostela, Spain",14721
+"ES","Spain","OZP","Moron, Spain",13998
+"ES","Spain","LPA","Las Palmas, Spain",13047
+"ES","Spain","AGP","Malaga, Spain",10205
+"ES","Spain","VLC","Valencia, Spain",15606
+"ES","Spain","VLL","Valladolid, Spain",15609
+"ES","Spain","SLM","Salamanca, Spain",16575
+"ES","Spain","TFS","Tenerife, Spain",15183
+"ES","Spain","ALC","Alicante, Spain",10258
+"ES","Spain","LCG","A Coruna, Spain",12914
+"ES","Spain","IBZ","Ibiza, Spain",12274
+"ES","Spain","ZAZ","Zaragoza, Spain",16286
+"ES","Spain","VIT","Vitoria, Spain",15602
+"ES","Spain","PMI","Palma Mallorca, Spain",14166
+"ES","Spain","EAS","San Sebastian, Spain",11469
