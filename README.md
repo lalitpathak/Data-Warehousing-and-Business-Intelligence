@@ -1,6 +1,6 @@
 # Data-Warehousing-and-Business-Intelligence
 
-• The objective of the project was to apply theories, methodologies and strategies of Data warehousing.
+• objective of the project is to apply theories, methodologies and strategies of Data warehousing.
 • Successfully implemented a data warehouse to support business intelligence queries for the airline
   industry with the help of SSIS, SSAS, R, SQL server and Tableau.
 
